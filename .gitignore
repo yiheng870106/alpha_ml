@@ -1,0 +1,31 @@
+# Large or reproducible project artifacts
+data/
+processed/
+cache/
+checkpoints/
+models/
+predictions/
+portfolio/
+
+# Private local configuration
+config.json
+.env
+
+# Model and array files
+*.pt
+*.pth
+*.joblib
+*.pkl
+*.npy
+*.npz
+*.parquet
+
+# Python and notebook files
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+
+# This maintenance notebook is not part of the research pipeline
+notebooks/documentation_and_github.ipynb
+notebooks/alpha_ml_documentation_and_github.ipynb

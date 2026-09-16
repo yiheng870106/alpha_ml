@@ -1,0 +1,2 @@
+window,model,best_epoch,best_iteration,n_observations,n_dates,accuracy,balanced_accuracy,macro_f1,mean_daily_macro_auc,mean_daily_extreme_auc,mean_daily_bottom_auc,mean_daily_middle_auc,mean_daily_top_auc,pooled_macro_auc,log_loss,validation_model_path
+20,CNN+Transformer,1.0,,240493,481,0.5994810659769723,0.363423480407576,0.31962237462854254,0.6207974121518053,0.6060917632723538,0.612175295503582,0.6502087099107083,0.6000082310411258,0.6204422718965811,0.9204848613066557,/content/drive/MyDrive/alpha_ml/models/02_cross_sectional/1ac42d8d4f01/validation_best_20d.pt

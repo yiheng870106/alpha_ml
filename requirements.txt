@@ -1,0 +1,14 @@
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+scikit-learn
+lightgbm
+xgboost
+torch
+yfinance
+pandas-datareader
+cvxpy
+joblib
+pyarrow
