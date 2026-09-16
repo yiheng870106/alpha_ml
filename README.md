@@ -78,18 +78,17 @@ Therefore, the test AUC results provide evidence of a ranking signal, but they a
 
 ## Repository structure
 
-text
-alpha_ml/
-├── notebooks/
-│   ├── 00_*.ipynb              # Data collection and project setup
-│   ├── 01_*.ipynb              # Feature engineering and dataset construction
-│   ├── 02_*.ipynb              # Multi-horizon model training and evaluation
-│   └── experiments/            # Additional exploratory model notebooks
-├── figures/                    # Selected figures
-├── results/                    # Selected summary metrics
-├── requirements.txt
-├── LICENSE
-└── README.md
+    alpha_ml/
+    ├── notebooks/
+    │   ├── 00_*.ipynb              # Data collection and project setup
+    │   ├── 01_*.ipynb              # Feature engineering and dataset construction
+    │   ├── 02_*.ipynb              # Multi-horizon model training and evaluation
+    │   └── experiments/            # Additional exploratory model notebooks
+    ├── figures/                    # Selected figures
+    ├── results/                    # Selected summary metrics
+    ├── requirements.txt
+    ├── LICENSE
+    └── README.md
 
 Large datasets, fitted models, checkpoints, prediction files, and other reproducible intermediate outputs are excluded from GitHub.
 
